@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57ff4269-b48f-457d-8c9c-4dc6c17f2f86" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SVw3M77OE57eaYhID1lVRd8lia" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\JAVA\G4G1\src\test" />
+      <recent name="D:\IT\JAVA\G4G1\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MessagingProtocolsTest">
+    <configuration name="TemplatePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemplatePatternDemo" />
+      <module name="G4G1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagingProtocolsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="G4G1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.mt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.mt" />
+      <option name="MAIN_CLASS_NAME" value="test.mt.MessagingProtocolsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagingProtocolsTest.OBSAI_execute_shouldReturn_EstablishedAllLayers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="G4G1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.mt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.mt" />
+      <option name="MAIN_CLASS_NAME" value="test.mt.MessagingProtocolsTest" />
+      <option name="METHOD_NAME" value="OBSAI_execute_shouldReturn_EstablishedAllLayers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagingProtocolsTest.dummyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="G4G1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.mt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.mt" />
+      <option name="MAIN_CLASS_NAME" value="test.mt.MessagingProtocolsTest" />
+      <option name="METHOD_NAME" value="dummyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OBSAITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="G4G1" />
+      <option name="PACKAGE_NAME" value="test.ut" />
+      <option name="MAIN_CLASS_NAME" value="test.ut.OBSAITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MessagingProtocolsTest" />
+        <item itemvalue="JUnit.MessagingProtocolsTest.OBSAI_execute_shouldReturn_EstablishedAllLayers" />
+        <item itemvalue="JUnit.MessagingProtocolsTest.dummyTest" />
+        <item itemvalue="JUnit.OBSAITest" />
+        <item itemvalue="Application.TemplatePatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57ff4269-b48f-457d-8c9c-4dc6c17f2f86" name="Default Changelist" comment="" />
+      <created>1571661870721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571661870721</updated>
+    </task>
+    <servers />
+  </component>
+</project>
